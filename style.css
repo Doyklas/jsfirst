@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-top: 10px;
+}
+label{
+    margin-left: 10px;
+    display: inline-block;
+
+}
+input[types='number']{
+    width: 100px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button{
+    padding: 10px 20px;
+    background-color: rgb(64, 64, 255);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#resultado{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px ;
+}
